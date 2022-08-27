@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MissUsagi
 - 👀 I’m interested in programming, graphic design, photography. 
-- 🌱 I’m currently learning JavaScript, HTML, CSS and Japanese Language :)
+- 🌱 I’m currently learning Vue.js, JavaScript, HTML, CSS and Japanese Language :)
 
 
 <!---
