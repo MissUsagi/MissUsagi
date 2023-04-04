@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @MissUsagi
 - 👀 I’m interested in programming, graphic design, photography. 
 - 🌱 I’m currently learning Vue, React and TypeScript...
-- 💞️ And Three.js! It's awesome and fun to use JS library used to create and display animated 3D computer graphics in a web browser.
+- 💞️ And Three.js! It's awesome and fun to use JS library used to create and display animated 3D computer graphics in a web browser https://usagi-heart.netlify.app
+- 📫 My website with project demos -> https://sjnews.netlify.app/about.html
 
 
 <!---
