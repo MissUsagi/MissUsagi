@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MissUsagi
 - 👀 I’m interested in programming, graphic design, photography. 
-- 🌱 I’m currently worging on e-learning Vue/Pinia app:
+- 🌱 I’m currently working on e-learning Vue/Pinia app:
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
