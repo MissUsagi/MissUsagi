@@ -11,5 +11,5 @@ You can click the Preview link to take a look at your changes.
 👀 Prototype -> Sneak peek:
 ![figma prototype](https://user-images.githubusercontent.com/99666752/232830655-864ed83f-70de-4bea-b7da-57122d9041de.jpg)
 
-👀 What's new?
+💞️ Already Implemented!
 ![kanjiapp](https://user-images.githubusercontent.com/99666752/234946261-cf3d4fad-84db-48d6-a784-b83820669c97.png)
