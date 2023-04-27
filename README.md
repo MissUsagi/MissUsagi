@@ -8,7 +8,7 @@
 MissUsagi/MissUsagi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-👀 #Prototype -> Sneak peek:
+<font size = "1">👀 Prototype -> Sneak peek:</font>
 ![figma prototype](https://user-images.githubusercontent.com/99666752/232830655-864ed83f-70de-4bea-b7da-57122d9041de.jpg)
 
 💞️ #Already Implemented!
