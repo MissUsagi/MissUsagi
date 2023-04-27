@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MissUsagi
-- 👀 I’m interested in programming, graphic design, photography. 
-- 💞️ My tech stack: Vue, JS, HTML, CSS, Bootstrap, basic knowledge about React (still learning), and Three.js (because it is fun).
-- 🌱 I’m currently working on e-learning Vue/Pinia app:
+> 👋 Hi, I’m @MissUsagi
+> 👀 I’m interested in programming, graphic design, photography. 
+> 💞️ My tech stack: Vue, JS, HTML, CSS, Bootstrap, basic knowledge about React (still learning), and Three.js (because it is fun).
+> 🌱 I’m currently working on e-learning Vue/Pinia app:
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
